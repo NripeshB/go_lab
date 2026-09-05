@@ -1,3 +1,3 @@
-module hello_world
+module something
 
 go 1.26.6
