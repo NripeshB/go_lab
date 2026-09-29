@@ -1,6 +1,7 @@
 package main
 
 func NewInMemoryPlayerStore() *InMemoryPlayerStore {
+
 	return &InMemoryPlayerStore{map[string]int{}}
 }
 
